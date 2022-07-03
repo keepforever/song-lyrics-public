@@ -10,7 +10,6 @@ All they know is what they see, their families
         [G]                   [Am]
 the sun in the sky, the birds in the trees
 
-PRE-CHORUS (but not really, same chords as verse, it just kinda has a different lyric syncopation)
 [Am]              [G]        [Am]
 reality, learn to trust you perceive is
 [Am]              [G]        [Am]
@@ -41,8 +40,6 @@ VERSE 3
 the U.S.S. Insanity, where it's us and them, you and me 
 
 must learn to trust what we can't see, take orders from a man who holds
-
-PRE-CHORUS (or something, I dunno)
 
 a book of god, when I raise my voice, you bow your
 
