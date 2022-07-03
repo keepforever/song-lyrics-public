@@ -1,19 +1,19 @@
-INTRO: [Bm] [A] [Bm] (ad nauseam)
+INTRO: [Am] [G] [Am] (ad nauseam)
 
 VERSE 1
-[Bm]    
+[Am]    
 A brand new child has arrived on earth
-                [A]                       [Bm]   
+                [G]                       [Am]   
     not a worry in their mind, not a care in the world
-[Bm]
+[Am]
 All they know is what they see, their families
-        [A]                   [Bm]
+        [G]                   [Am]
 the sun in the sky, the birds in the trees
 
 PRE-CHORUS (but not really, same chords as verse, it just kinda has a different lyric syncopation)
-[Bm]              [A]        [Bm]
+[Am]              [G]        [Am]
 reality, learn to trust you perceive is
-[Bm]              [A]        [Bm]
+[Am]              [G]        [Am]
 reality, your mothers voice, the air you breath
 
 VERSE 2
@@ -27,14 +27,14 @@ but instead of leave it up you we'd rather that you'd be confused
 there's just one answer that will do, now please drop to your knees and
 
 CHORUS
-[G]              [D]               [A]            [D]          [A]    [G]
+[F]              [C]               [G]            [C]          [G]    [F]
 Beg forgiveness, pledge allegiance,    leave your free thought at the door
-           [D]                  [A]                [D]         [A]     [G]
+           [C]                  [G]                [C]         [G]     [F]
 I give you heathens, I give you demons, that won't fit through heavens door
-[G]                  [A]               [Bm]   [A]    [G]
+[F]                  [G]               [Am]   [G]    [F]
 you're nothing but a servant now under one al-mighty lord... welcome aboard.
 
-RE-INTRO: [Bm] [A] [Bm] 
+RE-INTRO: [Am] [G] [Am] 
 
 VERSE 3
 
@@ -53,10 +53,10 @@ a book of god, those collections plates won't fill themselves
 a book of god, kneel before me or burn in hell now
 
 CHORUS
-[G]              [D]               [A]            [D]          [A]    [G]
+[F]              [C]               [G]            [C]          [G]    [F]
 Beg forgiveness, pledge allegiance,    leave your free thought at the door
-           [D]                  [A]                [D]         [A]     [G]
+           [C]                  [G]                [C]         [G]     [F]
 I give you heathens, I give you demons, that won't fit through heavens door
-[G]                  [A]               [Bm]   [A]    [G]
+[F]                  [G]               [Am]   [G]    [F]
 you're nothing but a servant now under one al-mighty lord... man overboard.
 
